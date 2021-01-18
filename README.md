@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails, JavaScript, React**
 
-- 👨‍💻 All of my projects will be available at [www.peterhemsing.com](www.peterhemsing.com)
+- 👨‍💻 All of my projects will be available at [www.peterhemsing.com](www.peterhemsing.com) soon.
 
 - 📫 How to reach me **peterhemsing@gmail.com**
 
