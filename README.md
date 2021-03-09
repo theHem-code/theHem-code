@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">I'm a newcomer in the Full-Stack Developer world and ready to hack</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails, JavaScript, React**
+- 🌱 I’m currently learning **React with Redux & Ruby on Rails**
 
 - 👨‍💻 All of my projects will be available at [www.peterhemsing.com](www.peterhemsing.com) soon.
 
